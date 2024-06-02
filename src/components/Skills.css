@@ -1,0 +1,43 @@
+.skills{
+    display: flex;
+    height: 800px;
+    justify-content: space-around;
+    align-items: center;
+}  
+
+.skills_content{
+    /* height: 400px; */
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 60%;
+}
+
+
+.progressContainer{
+    height: 10px;
+    width: 380px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.progressContainer:hover .progressBar{
+    height: 10px;
+    width: 50%;
+    transition: 1s width ease;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.skills_content .con{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+
+
+

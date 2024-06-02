@@ -1,0 +1,29 @@
+
+
+.home{
+   display:flex;
+   justify-content: flex-end;
+   align-items: center;
+}
+
+.home_title{
+    padding-left: 200px;
+    
+}
+
+#title{
+    font-size: 60px;
+    font-family:cursive;
+}
+
+#title i{
+    font-size: 30px;
+}
+
+#name{
+    font-size: 50px;
+    font-weight: 40px;
+}
+
+
+
