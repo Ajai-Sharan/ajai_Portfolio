@@ -34,7 +34,7 @@ function Education() {
             <h3 class="educationName">SBS College Ranchi, Jharkhand</h3>
             <h4 class="subName">BCA & MCA</h4>
             <h4 class="subName">2014 - 2020</h4>
-            <p class="eductionContent">The Dr. C.V. Raman University, Management college in Ranchi,MBA College in Ranchi,MBA Institute in Ranchi, <br />BBA, BCA, MCA, BCom College in Ranchi.</p>
+            <p class="eductionContent">The Dr. C.V. Raman University, Management college in Ranchi,MBA College in Ranchi,MBA Institute in Ranchi, <br />BBA, BCA, MCA, BCom College.</p>
         </div>
     </div>
 </div>
