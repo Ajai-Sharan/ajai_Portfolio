@@ -1,11 +1,11 @@
 @font-face {
     font-family: cursiveWriting;
-    src: url('C:\Users\ajais\ajai_portfolio\public\CedarvilleCursive-Regular.ttf');
+    src: url('../styles/CedarvilleCursive-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: brithstone;
-    src: url('C:\Users\ajais\ajai_portfolio\public\BirthstoneBounce-Medium.ttf');
+    src: url('../styles/BirthstoneBounce-Medium.ttf');
 }
 
 header{
