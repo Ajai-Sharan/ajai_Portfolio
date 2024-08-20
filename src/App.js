@@ -21,7 +21,7 @@ function App() {
         <section id="about">
          <About/>
         </section>
-          <ProgressBar n={10}/>
+
         <section id={"skill"}>
             <Skills/>
         </section>
