@@ -66,6 +66,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
+
+
 }
 
 .navBar .nav_item:hover{
@@ -75,6 +78,14 @@ header{
 
 
 .navBar .nav_item {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    align-items: center;
+
+
+}
+.navBar  a {
     text-decoration: none;
     color: black;
     font-size: 20px;
