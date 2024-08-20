@@ -8,18 +8,35 @@ import Contacts from './components/Contacts';
 import Footer from './components/Footer';
 import Home from './components/Home';
 import NavBar from './components/NavBar';
+import ProgressBar from "./components/ProgressBar";
 
 function App() {
   return (
-    <section>
-    <Home />
-    < NavBar />
-    <About />
-    <Skills />
-    <Education />
-    </section>
+      <section>
+        <section id={"home"}>
+            <Home/>
+        </section>
+
+        < NavBar/>
+        <section id="about">
+         <About/>
+        </section>
+          <ProgressBar n={10}/>
+        <section id={"skill"}>
+            <Skills/>
+        </section>
+
+
+
+          <section id={"education"}>
+              <Education/>
+          </section>
+<section id={"contact"}>
+    <Contacts/>
+</section>
+      </section>
   );
-   
+
 }
 
 export default App;
